@@ -2,7 +2,7 @@
 ## Manage landing 
 
 This is a Design preview for the Manage landing page
-
+This is the project from my 2022 Tailwind and Reactjs 
 
 
 
